@@ -22,3 +22,45 @@ html {
 .show {
   display: block;
 }
+
+.field.is-grouped.is-grouped-centered {
+  justify-content: center;
+  margin-top: 10%;
+  -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+
+.navbar-item {
+  height: 80px;
+  font-size: 25px;
+  margin-right: 45px;
+  color: black;
+  font-family: 'Work Sans', sans-serif;
+
+}
+
+* {
+  box-sizing: unset;
+}
+
+.navbar-brand{
+  -moz-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+  margin-left: 40px;
+}
+
+img {
+  -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    margin-left: 40px;
+}
