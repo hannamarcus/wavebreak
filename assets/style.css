@@ -22,3 +22,8 @@ html {
 .show {
   display: block;
 }
+
+.swiper {
+  width: 3000px;
+  height: 500px;
+}
